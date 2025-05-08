@@ -104,13 +104,12 @@ If you use this code or results in your research, please cite:
 ```bibtex
 @article{Barreiro2025,
   title={Mercury's Perihelion Precession: A High-Precision Validation of Emergent Quantum Field Theory},
-  author={Barreiro, Lionel},
-  journal={Physical Review D},
+  author={Barreiro, Lionel and E-QFT Research Group},
   year={2025},
-  publisher={American Physical Society}
+
 }
 ```
 
 ## Contact
 
-Lionel Barreiro - barreiro@example.com
+E-QFT Research Group
