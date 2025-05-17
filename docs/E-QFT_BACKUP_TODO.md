@@ -279,4 +279,4 @@ If implementation fails:
 8. All quantities have proper units
 9. Quantum correction orders consistently notated
 
-This TODO document provides a complete backup of all equations and implementation steps for the unified E-QFT framework documentation. Reference this document if any issues arise during implementation.
+This TODO document provides a complete backup of all equations and implementation steps for the unified E-QFT framework documentation.
