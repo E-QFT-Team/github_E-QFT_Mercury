@@ -9,7 +9,7 @@ the Emergent Quantum Field Theory framework integrated with the Standard Model.
 It calculates the perihelion precession and compares with both General Relativity
 and observational data.
 
-Author: Claude (based on E-QFT_BACKUP_TODO.md specifications)
+Author:
 Date: May 2025
 """
 
