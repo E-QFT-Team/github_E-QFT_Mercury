@@ -8,7 +8,7 @@ This script generates high-quality figures comparing Mercury's orbit and
 perihelion precession across different gravitational models: Newtonian,
 General Relativity, and E-QFT.
 
-Author: Claude
+Author:
 Date: May 2025
 """
 
